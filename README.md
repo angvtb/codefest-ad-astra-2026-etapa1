@@ -1,7 +1,6 @@
 # CODEFEST AD ASTRA 2026 — Etapa 1: Sistema de Recuperación Semántica
 
 **Equipo:** The Data Alchemists — Universidad Icesi
-**Competencia:** CODEFEST AD ASTRA 2026 (Fuerza Aeroespacial Colombiana × Universidad de los Andes)
 
 ## Qué hace este proyecto
 
